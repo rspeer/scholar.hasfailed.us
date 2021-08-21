@@ -1,6 +1,6 @@
 # Google Scholar has failed us.
 
-We are trans authors of published papers. We need you to avoid using the trans-exclusionary site Google Scholar.
+We are trans authors of published papers. We need you to avoid using the trans-exclusionary site Google Scholar, until it fully allows authors to change names.
 
 ## What's wrong with Google Scholar?
 
