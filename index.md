@@ -2,6 +2,7 @@
 
 We are trans authors of published papers. We need you to avoid using the trans-exclusionary site Google Scholar.
 
+
 ## What's wrong with Google Scholar?
 
 - Google Scholar, unlike competing platforms (such as [ResearchGate][], [Semantic Scholar][], and [IA Scholar][]), provides no meaningful way for an author to update their name throughout the service.
