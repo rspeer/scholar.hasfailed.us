@@ -27,7 +27,7 @@ We are trans authors of published papers. We need you to avoid using the trans-e
 
 ## Why is this so important?
 
-Deadnaming is hate speech. It violates the code of conduct of many communities.
+Deadnaming is hate speech. It violates the code of conduct of many communities and creates a hostile work environment.
 
 Deadnaming -- deliberately calling a trans person by their deadname -- is done to trans people by their transphobic harassers to deny their ability to transition. Sadly, it is also done by bureaucracies and corporations, but this does not make it right.
 
