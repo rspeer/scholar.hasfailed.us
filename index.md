@@ -1,6 +1,8 @@
 # Google Scholar has failed us.
 
-We are trans authors of published papers. We need you to avoid using the trans-exclusionary site Google Scholar, until it fully allows authors to change names.
+Google Scholar is built around a trans-exclusionary and sexist design that assumes people never change names. This is particularly harmful to trans authors.
+
+We need Google to change this, and we need everyone else to stop using Google Scholar until they do.
 
 ## What's wrong with Google Scholar?
 
@@ -14,7 +16,7 @@ We are trans authors of published papers. We need you to avoid using the trans-e
 
 - When an author updates their paper in a published repository, the paper and correct citations of it will be missing from search results or ranked unreasonably low for a while.
 
-- Google Scholar provides citations (in BibTeX and other formats) that are outdated and contain an author’s deadname, even when the paper has been updated.
+- Google Scholar provides citations (in BibTeX and other formats) that are outdated and contain an author’s deadname, even when the paper has been updated. Authors who believe the information on Google Scholar end up citing trans authors in ways that harm them.
 
 - Google Scholar can be convinced to update its belief about your name, but it is a very lengthy process that seems to quire getting a majority of people to cite you by your correct name and then waiting several months. This is an unreasonable burden, and is unattainable by many authors.
 
@@ -37,6 +39,10 @@ The correct way to refer to a trans author is by their chosen name. Google Schol
 
 Many trans authors consider it easier to change careers than to change their name within academia, and Google Scholar is the most prominent reason for this.
 
+This issue can affect other authors as well. Many people change names, for many reasons. The unrealistic assumption that people don't change names reflects that the system was largely designed by and for cis men.
+
+There are workarounds that work for some people, such as married cis women who choose not to change their names for the sake of their academic careers. But because of the harm that is built into deadnaming, it is trans authors who are most harmed and have the fewest options.
+
 ## But I've heard Google is a great place for trans employees! Surely they're working on it.
 
 In 2019, the Google Scholar team responded to an employee who raised the issue internally: "We don't support name changes."
@@ -45,7 +51,7 @@ Google seems to see their affirmation of trans rights as a perk that they offer 
 
 Non-employees, such as most trans researchers, are of course at the mercy of their product decisions.
 
-Google employees are losing control of the ethics of their products. In 2019, five employee activists (three of whom were trans) were [fired for their activism][thanksgiving-five]. In 2020, Timnit Gebru and Margaret Mitchell, who had [advocated internally for proper representation of trans authors in Google Scholar][timnit-statement], were fired by Jeff Dean for their ethics research.
+Google employees are losing control of the ethics of their products. In 2019, five employee activists (three of whom were trans) were [fired for their activism][thanksgiving-five]. In 2020, Timnit Gebru and Margaret Mitchell, who among their many accomplishments had [advocated internally for proper representation of trans authors in Google Scholar][timnit-statement], were fired by Jeff Dean for their ethics research.
 
 [#DropTheDeadnames]: https://dropthedeadnames.org/
 [thanksgiving-five]: https://www.washingtonpost.com/technology/2019/12/17/google-fires-fifth-engineer-who-alleges-retaliation-union-activity/
@@ -73,7 +79,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 
 - Instead of Google Scholar, use alternatives such as [Semantic Scholar][], and recommend that others do as well.
 - Share this petition so that it gets more attention and acquires more signatures from authors.
-- If you are a trans or non-binary author, please sign this petition by [opening a GitHub pull request][pull-request] to add your name, or by e-mailing Robyn Speer (**rspeer @ arborelia.net**) with the subject "Google Scholar petition" and the information you would like added.
+- Sign this petition by [opening a GitHub pull request][pull-request] to add your name, or by e-mailing Robyn Speer (**rspeer @ arborelia.net**) with the subject "Google Scholar petition" and the information you would like added. You do not necessarily need to be trans to sign and show your support.
 
 [pull-request]: https://github.com/rspeer/scholar.hasfailed.us/pulls
 
