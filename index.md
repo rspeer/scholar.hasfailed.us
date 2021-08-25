@@ -18,7 +18,7 @@ We need Google to change this, and we need everyone else to stop using Google Sc
 
 - Google Scholar provides citations (in BibTeX and other formats) that are outdated and contain an author’s deadname, even when the paper has been updated. Authors who believe the information on Google Scholar end up citing trans authors in ways that harm them.
 
-- Google Scholar can be convinced to update its belief about your name, but it is a very lengthy process that seems to quire getting a majority of people to cite you by your correct name and then waiting several months. This is an unreasonable burden, and is unattainable by many authors.
+- Google Scholar can be convinced to update its belief about your name, but it is a very lengthy process that seems to require getting a majority of people to cite you by your correct name and then waiting several months. This is an unreasonable burden, and is unattainable by many authors.
 
 - Google is the most influential organization in scientific publishing to _not_ enter [a partnership affirming the ability of trans authors to change their names][partnership].
 
