@@ -85,8 +85,6 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 
 ## Signers
 
-This page was created by [Robyn Speer](https://twitter.com/r_speer), and endorsed by:
-
 - **Jana Dunfield** (Queen's University)
 - **Lilian Hunt** (EDIS, Wellcome Trust)
 - **Robyn Speer** (ConceptNet and explosion.ai)
