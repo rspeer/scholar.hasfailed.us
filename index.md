@@ -83,8 +83,16 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 
 [pull-request]: https://github.com/rspeer/scholar.hasfailed.us/pulls
 
-## Signatories
+## Signers
 
-(This is a draft page. I have not collected other signatories yet.)
+This page was created by [Robyn Speer](https://twitter.com/r_speer), and endorsed by:
 
-- [Robyn Speer](https://twitter.com/r_speer), ConceptNet
+- **Jana Dunfield** (Queen's University)
+- **Lilian Hunt** (EDIS, Wellcome Trust)
+- **Robyn Speer** (ConceptNet and explosion.ai)
+- **Katta Spiel**
+- **Danica J. Sutherland** (University of British Columbia and Alberta Machine Intelligence Institute)
+- **Theresa Jean Tanenbaum** (University of California Irvine)
+- **Z Toups** (New Mexico State University)
+- **Sam Vente**
+- **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
