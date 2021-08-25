@@ -57,9 +57,9 @@ Google employees are losing control of the ethics of their products. In 2019, fi
 [thanksgiving-five]: https://www.washingtonpost.com/technology/2019/12/17/google-fires-fifth-engineer-who-alleges-retaliation-union-activity/
 [timnit-statement]: https://twitter.com/timnitGebru/status/1362579188549640195
 
-## What needs to change
+## Our demands
 
-Google must fully support the ability for trans authors to change their names, in accordance with the Committee on Publication Ethics' [principles on name changes][cope-principles].
+We demand that Google fully support the ability for trans authors to change their names, in accordance with the Committee on Publication Ethics' [principles on name changes][cope-principles].
 
 - Google must allow authors to claim their papers, and use that information in organic search results.
 
@@ -78,6 +78,13 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 ## What can I do?
 
 - Instead of Google Scholar, use alternatives such as [Semantic Scholar][], and recommend that others do as well.
-- If you're interested in making this page into a petition and signing it, e-mail Robyn Speer (**rspeer @ arborelia.net**) with the subject "Google Scholar petition", the name you want to use, and optionally an institution, company name, or organization to put next to your name. You do not necessarily need to be trans to sign and show your support.
+- Share this petition so that it gets more attention and acquires more signatures from authors.
+- Sign this petition by [opening a GitHub pull request][pull-request] to add your name, or by e-mailing Robyn Speer (**rspeer @ arborelia.net**) with the subject "Google Scholar petition" and the information you would like added. You do not necessarily need to be trans to sign and show your support.
 
 [pull-request]: https://github.com/rspeer/scholar.hasfailed.us/pulls
+
+## Signatories
+
+(This is a draft page. I have not collected other signatories yet.)
+
+- [Robyn Speer](https://twitter.com/r_speer), ConceptNet
