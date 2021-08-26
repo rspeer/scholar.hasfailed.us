@@ -95,6 +95,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **M. Alex Kelly** (Carleton University)
 - **Ahmed Khaled** (Princeton University)
 - **Harris Kornstein** (University of Arizona)
+- **Allison McDonald** (University of Michigan)
 - **Kara McShane** (Ursinus College)
 - **Janelle Shane**
 - **Abram Stern** (UC Santa Cruz)
