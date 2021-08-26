@@ -86,7 +86,9 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 ## Signers
 
 - **Jonathan Aldrich** (Carnegie Mellon University)
+- **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Jana Dunfield** (Queen's University)
+- **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
 - **Ahmed Khaled** (Princeton University)
 - **Robyn Speer** (ConceptNet and explosion.ai)
@@ -98,4 +100,3 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Melissa Valen**
 - **Sam Vente**
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
-- **Emma C. Humphries**
