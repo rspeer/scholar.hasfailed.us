@@ -88,6 +88,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 ## Signers
 
 - **William Agnew** (University of Washington, Queer in AI)
+- **Sam Ahmed** (Leiden University)
 - **Jonathan Aldrich** (Carnegie Mellon University)
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Emily M. Bender** (University of Washington)
