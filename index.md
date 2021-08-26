@@ -97,6 +97,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Sibylle Hess** (TU Eindhoven)
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
+- **Paul Kaefer**, M.S.
 - **Ben Kaiser** (Princeton University)
 - **M. Alex Kelly** (Carleton University)
 - **Ahmed Khaled** (Princeton University)
