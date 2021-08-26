@@ -115,6 +115,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Avi Rappoport**
 - **Georgie Rowe** (University of Birmingham, UK)
 - **Mrinmaya Sachan** (ETH Zurich)
+- **Eddie Antonio Santos** (University College Dublin)
 - **Janelle Shane**
 - **Robyn Speer** (ConceptNet and explosion.ai)
 - **Katta Spiel**
