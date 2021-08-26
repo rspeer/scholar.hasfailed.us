@@ -94,6 +94,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Jana Dunfield** (Queen's University)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
 - **Pranav Goel** (University of Maryland)
+- **Sibylle Hess** (TU Eindhoven)
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
 - **Ben Kaiser** (Princeton University)
