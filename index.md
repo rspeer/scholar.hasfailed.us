@@ -89,6 +89,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
+- **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
 - **Pranav Goel** (University of Maryland)
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
