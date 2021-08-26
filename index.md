@@ -85,6 +85,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 
 ## Signers
 
+- **Jonathan Aldrich** (Carnegie Mellon University)
 - **Jana Dunfield** (Queen's University)
 - **Lilian Hunt** (EDIS, Wellcome Trust)
 - **Ahmed Khaled** (Princeton University)
