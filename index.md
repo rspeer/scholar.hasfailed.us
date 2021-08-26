@@ -102,6 +102,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **M. Alex Kelly** (Carleton University)
 - **Ahmed Khaled** (Princeton University)
 - **Harris Kornstein** (University of Arizona)
+- **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
 - **Allison McDonald** (University of Michigan)
 - **Kara McShane** (Ursinus College)
 - **Sylvia van Os**
@@ -117,6 +118,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Sam Vente**
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Marilee Zafaripour** (University of Oregon)
+
 
 <!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
 <!-- Adding to the end of the list causes merge conflicts. -->
