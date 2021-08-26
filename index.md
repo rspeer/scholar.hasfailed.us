@@ -89,12 +89,14 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 
 - **Jonathan Aldrich** (Carnegie Mellon University)
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
+- **Suzanne Coomer** (Rush University Medical Center)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
 - **Pranav Goel** (University of Maryland)
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
+- **Ben Kaiser** (Princeton University)
 - **M. Alex Kelly** (Carleton University)
 - **Ahmed Khaled** (Princeton University)
 - **Harris Kornstein** (University of Arizona)
