@@ -91,6 +91,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Jana Dunfield** (Queen's University)
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
+- **M. Alex Kelly** (Carleton University)
 - **Ahmed Khaled** (Princeton University)
 - **Harris Kornstein** (University of Arizona)
 - **Kara McShane** (Ursinus College)
