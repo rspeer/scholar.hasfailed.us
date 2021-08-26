@@ -100,6 +100,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Lilian Hunt** (EDIS, Wellcome Trust)
 - **Paul Kaefer**, M.S.
 - **Ben Kaiser** (Princeton University)
+- **Brian Keegan** (University of Colorado Boulder)
 - **M. Alex Kelly** (Carleton University)
 - **Ahmed Khaled** (Princeton University)
 - **Harris Kornstein** (University of Arizona)
