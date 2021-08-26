@@ -89,8 +89,10 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
+- **Pranav Goel** (University of Maryland)
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
+- **M. Alex Kelly** (Carleton University)
 - **Ahmed Khaled** (Princeton University)
 - **Harris Kornstein** (University of Arizona)
 - **Kara McShane** (Ursinus College)
@@ -106,4 +108,3 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Sam Vente**
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Marilee Zafaripour** (University of Oregon)
-- **Pranav Goel** (University of Maryland)
