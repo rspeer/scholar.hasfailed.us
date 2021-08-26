@@ -125,6 +125,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Z Toups** (New Mexico State University)
 - **Melissa Valen**
 - **Sam Vente**
+- **Nif Ward**
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Christina Wilmot** (Xoogler, Ph.D. student at UCLA)
 - **Marilee Zafaripour** (University of Oregon)
