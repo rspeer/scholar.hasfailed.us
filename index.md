@@ -104,6 +104,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Harris Kornstein** (University of Arizona)
 - **Allison McDonald** (University of Michigan)
 - **Kara McShane** (Ursinus College)
+- **Sylvia van Os**
 - **Janelle Shane**
 - **Abram Stern** (UC Santa Cruz)
 - **Robyn Speer** (ConceptNet and explosion.ai)
