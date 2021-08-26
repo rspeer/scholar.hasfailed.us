@@ -98,3 +98,4 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Melissa Valen**
 - **Sam Vente**
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
+- **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
