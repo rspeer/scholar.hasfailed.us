@@ -90,6 +90,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Jonathan Aldrich** (Carnegie Mellon University)
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Emily M. Bender** (University of Washington)
+- **Tiffany Chan** (University of Victoria Libraries)
 - **Suzanne Coomer** (Rush University Medical Center)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
@@ -110,6 +111,8 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Kara McShane** (Ursinus College)
 - **Sylvia van Os**
 - **Avi Rappoport**
+- **Georgie Rowe** (University of Birmingham, UK)
+- **Mrinmaya Sachan** (ETH Zurich)
 - **Janelle Shane**
 - **Robyn Speer** (ConceptNet and explosion.ai)
 - **Katta Spiel**
@@ -122,6 +125,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Melissa Valen**
 - **Sam Vente**
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
+- **Christina Wilmot** (Xoogler, Ph.D. student at UCLA)
 - **Marilee Zafaripour** (University of Oregon)
 
 
