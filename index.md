@@ -91,6 +91,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
 - **Ahmed Khaled** (Princeton University)
+- **Abram Stern** (UC Santa Cruz)
 - **Robyn Speer** (ConceptNet and explosion.ai)
 - **Katta Spiel**
 - **Danica J. Sutherland** (University of British Columbia and Alberta Machine Intelligence Institute)
