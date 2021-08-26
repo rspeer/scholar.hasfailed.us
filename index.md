@@ -106,3 +106,4 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Sam Vente**
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Marilee Zafaripour** (University of Oregon)
+- **Allison McDonald** (University of Michigan)
