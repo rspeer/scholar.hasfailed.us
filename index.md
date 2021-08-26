@@ -89,6 +89,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 
 - **Jonathan Aldrich** (Carnegie Mellon University)
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
+- **Emily M. Bender** (University of Washington)
 - **Suzanne Coomer** (Rush University Medical Center)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
@@ -103,13 +104,16 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Ahmed Khaled** (Princeton University)
 - **Harris Kornstein** (University of Arizona)
 - **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
+- **Sarah Masud** (Ph.D. Student)
 - **Allison McDonald** (University of Michigan)
 - **Kara McShane** (Ursinus College)
 - **Sylvia van Os**
+- **Avi Rappoport**
 - **Janelle Shane**
-- **Abram Stern** (UC Santa Cruz)
 - **Robyn Speer** (ConceptNet and explosion.ai)
 - **Katta Spiel**
+- **Abram Stern** (UC Santa Cruz)
+- **Catherine Stinson** (Queen's University)
 - **Danica J. Sutherland** (University of British Columbia and Alberta Machine Intelligence Institute)
 - **Zeerak Talat** (University of Sheffield and the Digital Democracies Institute, Simon Fraser University)
 - **Theresa Jean Tanenbaum** (University of California Irvine)
