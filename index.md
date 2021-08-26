@@ -107,6 +107,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Ahmed Khaled** (Princeton University)
 - **Harris Kornstein** (University of Arizona)
 - **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
+- **Ártemis López** (Ph.D. Candidate, Universidade de Vigo)
 - **Sarah Masud** (Ph.D. Student)
 - **Allison McDonald** (University of Michigan)
 - **Kara McShane** (Ursinus College)
