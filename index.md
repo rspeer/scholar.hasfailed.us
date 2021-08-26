@@ -53,6 +53,8 @@ Non-employees, such as most trans researchers, are of course at the mercy of the
 
 Google employees are losing control of the ethics of their products. In 2019, five employee activists (three of whom were trans) were [fired for their activism][thanksgiving-five]. In 2020, Timnit Gebru and Margaret Mitchell, who among their many accomplishments had [advocated internally for proper representation of trans authors in Google Scholar][timnit-statement], were fired by Jeff Dean for their ethics research.
 
+If Google is working on this now, they haven't communicated anything about it, and they must have assigned it a very low priority. We need them to talk to the trans community and understand the urgency of the problem.
+
 [#DropTheDeadnames]: https://dropthedeadnames.org/
 [thanksgiving-five]: https://www.washingtonpost.com/technology/2019/12/17/google-fires-fifth-engineer-who-alleges-retaliation-union-activity/
 [timnit-statement]: https://twitter.com/timnitGebru/status/1362579188549640195
@@ -110,3 +112,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Sam Vente**
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Marilee Zafaripour** (University of Oregon)
+
+<!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
+<!-- Adding to the end of the list causes merge conflicts. -->
+<!-- Of course, disregard this if your name is alphabetically last. -->
