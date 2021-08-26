@@ -94,6 +94,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Danica J. Sutherland** (University of British Columbia and Alberta Machine Intelligence Institute)
 - **Theresa Jean Tanenbaum** (University of California Irvine)
 - **Z Toups** (New Mexico State University)
+- **Melissa Valen**
 - **Sam Vente**
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Zeerak Talat** (University of Sheffield and the Digital Democracies Institute, Simon Fraser University)
