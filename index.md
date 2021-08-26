@@ -106,6 +106,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Ben Kaiser** (Princeton University)
 - **Brian Keegan** (University of Colorado Boulder)
 - **M. Alex Kelly** (Carleton University)
+- **Megan Kennedy**
 - **Ahmed Khaled** (Princeton University)
 - **Harris Kornstein** (University of Arizona)
 - **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
