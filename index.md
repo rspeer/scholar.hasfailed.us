@@ -92,6 +92,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Jonathan Aldrich** (Carnegie Mellon University)
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Verity Allan** (University of Cambridge)
+- **Anna Barth** (Cornell University)
 - **Emily M. Bender** (University of Washington)
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Suzanne Coomer** (Rush University Medical Center)
@@ -104,6 +105,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Pranav Goel** (University of Maryland)
 - **Sibylle Hess** (TU Eindhoven)
 - **Matthew Honnibal** (Explosion.ai)
+- **Sophie Huiberts** (Centrum Wiskunde & Informatica)
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
 - **Paul Kaefer**, M.S.
@@ -121,6 +123,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Kara McShane** (Ursinus College)
 - **Julia Colleen Miller** (The Australian National University)
 - **Caleb Moses** (Aotearoa Māori, Ngāpuhi tribe; Cook Island Māori, Aitutaki)
+- **Anoush Najarian** (Software Engineering Manager, CMG Board chair, GHC AI co-chair, previous: NeurIPS meetup co-chair, ICML virtual co-chair)
 - **Charlie Negri**
 - **Sylvia van Os**
 - **Nicole Peterson** (UNC Charlotte)
