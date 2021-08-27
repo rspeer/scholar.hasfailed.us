@@ -91,6 +91,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Sam Ahmed** (Leiden University)
 - **Jonathan Aldrich** (Carnegie Mellon University)
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
+- **Verity Allan** (University of Cambridge)
 - **Emily M. Bender** (University of Washington)
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Suzanne Coomer** (Rush University Medical Center)
