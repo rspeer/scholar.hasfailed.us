@@ -114,7 +114,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Sarah Masud** (Ph.D. Student)
 - **Allison McDonald** (University of Michigan)
 - **Kara McShane** (Ursinus College)
-- **Julia Colleen Miller (The Australian National University)
+- **Julia Colleen Miller** (The Australian National University)
 - **Sylvia van Os**
 - **Avi Rappoport**
 - **Georgie Rowe** (University of Birmingham, UK)
