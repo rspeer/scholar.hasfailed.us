@@ -133,6 +133,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Mrinmaya Sachan** (ETH Zurich)
 - **Luca Salerno** (Ph.D.; co-chair, City of Pittsburgh LGBTQIA+ Commission)
 - **Eddie Antonio Santos** (University College Dublin)
+- **Michael Schlichtkrull** (University of Cambridge)
 - **Janelle Shane**
 - **Robyn Speer** (ConceptNet and explosion.ai)
 - **Katta Spiel**
