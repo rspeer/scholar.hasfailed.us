@@ -103,6 +103,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Lauren Gawne** (La Trobe University)
 - **Pranav Goel** (University of Maryland)
 - **Sibylle Hess** (TU Eindhoven)
+- **Matthew Honnibal** (Explosion.ai)
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
 - **Paul Kaefer**, M.S.
@@ -119,6 +120,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Allison McDonald** (University of Michigan)
 - **Kara McShane** (Ursinus College)
 - **Julia Colleen Miller** (The Australian National University)
+- **Caleb Moses** (Aotearoa Māori, Ngāpuhi tribe; Cook Island Māori, Aitutaki)
 - **Charlie Negri**
 - **Sylvia van Os**
 - **Nicole Peterson** (UNC Charlotte)
@@ -143,7 +145,6 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Christina Wilmot** (Xoogler, Ph.D. student at UCLA)
 - **Marilee Zafaripour** (University of Oregon)
-- **Matthew Honnibal** (Explosion.ai)
 
 <!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
 <!-- Adding to the end of the list causes merge conflicts. -->
