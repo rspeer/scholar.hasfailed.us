@@ -139,6 +139,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Mrinmaya Sachan** (ETH Zurich)
 - **Luca Salerno** (Ph.D.; co-chair, City of Pittsburgh LGBTQIA+ Commission)
 - **Eddie Antonio Santos** (University College Dublin)
+- **Michael Schlichtkrull** (University of Cambridge)
 - **Janelle Shane**
 - **Robyn Speer** (ConceptNet and explosion.ai)
 - **Katta Spiel**
@@ -154,6 +155,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Christina Wilmot** (Xoogler, Ph.D. student at UCLA)
 - **Marilee Zafaripour** (University of Oregon)
+- **Nick Ruest** (York University)
 
 <!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
 <!-- Adding to the end of the list causes merge conflicts. -->
