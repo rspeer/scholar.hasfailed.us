@@ -117,6 +117,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Julia Colleen Miller (The Australian National University)
 - **Sylvia van Os**
 - **Avi Rappoport**
+- **J. Rosenbaum** (RMIT University)
 - **Georgie Rowe** (University of Birmingham, UK)
 - **Mrinmaya Sachan** (ETH Zurich)
 - **Eddie Antonio Santos** (University College Dublin)
