@@ -94,6 +94,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Emily M. Bender** (University of Washington)
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Suzanne Coomer** (Rush University Medical Center)
+- **Joaco De Entrambasaguas** (Ph.D. Candidate, Universidad de Zaragoza, Spain)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
 - **Michael Ensly**
@@ -117,10 +118,12 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Kara McShane** (Ursinus College)
 - **Julia Colleen Miller** (The Australian National University)
 - **Sylvia van Os**
+- **Nicole Peterson** (UNC Charlotte)
 - **Avi Rappoport**
 - **J. Rosenbaum** (RMIT University)
 - **Georgie Rowe** (University of Birmingham, UK)
 - **Mrinmaya Sachan** (ETH Zurich)
+- **Luca Salerno** (Ph.D.; co-chair, City of Pittsburgh LGBTQIA+ Commission)
 - **Eddie Antonio Santos** (University College Dublin)
 - **Janelle Shane**
 - **Robyn Speer** (ConceptNet and explosion.ai)
@@ -137,7 +140,6 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Christina Wilmot** (Xoogler, Ph.D. student at UCLA)
 - **Marilee Zafaripour** (University of Oregon)
-
 
 <!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
 <!-- Adding to the end of the list causes merge conflicts. -->
