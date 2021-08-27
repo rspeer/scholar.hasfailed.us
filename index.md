@@ -81,7 +81,11 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 
 - Instead of Google Scholar, use alternatives such as [Semantic Scholar][], and recommend that others do as well.
 - Share this petition so that it gets more attention and acquires more signatures from authors.
-- Sign this petition by [opening a GitHub pull request][pull-request] to add your name, or by e-mailing Robyn Speer (**rspeer @ arborelia.net**) with the subject "Google Scholar petition" and the information you would like added. You do not necessarily need to be trans to sign and show your support.
+- Sign this petition by [opening a GitHub pull request][pull-request] to add your name, or by e-mailing Robyn Speer (**rspeer @ arborelia.net**) with the subject "Google Scholar petition" and the information you would like added.
+
+You do not necessarily need to be trans, or an academic, to sign and show your support.
+
+Feel free to list an affiliation with an institution, organization, or company, but this is also optional. Some signers have chosen to include their status as students, which is also optional.
 
 [pull-request]: https://github.com/rspeer/scholar.hasfailed.us/edit/main/index.md
 
@@ -93,6 +97,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Verity Allan** (University of Cambridge)
 - **Anna Barth** (Cornell University)
+- **Marisol N. Beck**
 - **Emily M. Bender** (University of Washington)
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Suzanne Coomer** (Rush University Medical Center)
