@@ -136,6 +136,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Avi Rappoport**
 - **J. Rosenbaum** (RMIT University)
 - **Georgie Rowe** (University of Birmingham, UK)
+- **Nick Ruest** (York University)
 - **Mrinmaya Sachan** (ETH Zurich)
 - **Luca Salerno** (Ph.D.; co-chair, City of Pittsburgh LGBTQIA+ Commission)
 - **Eddie Antonio Santos** (University College Dublin)
@@ -155,7 +156,6 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Christina Wilmot** (Xoogler, Ph.D. student at UCLA)
 - **Marilee Zafaripour** (University of Oregon)
-- **Nick Ruest** (York University)
 
 <!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
 <!-- Adding to the end of the list causes merge conflicts. -->
