@@ -96,6 +96,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Suzanne Coomer** (Rush University Medical Center)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
+- **Michael Ensly**
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
 - **Lauren Gawne** (La Trobe University)
 - **Pranav Goel** (University of Maryland)
