@@ -111,6 +111,7 @@ Google has ignored these issues for years. Until Google takes these steps, we ca
 - **Megan Kennedy**
 - **Ahmed Khaled** (Princeton University)
 - **Harris Kornstein** (University of Arizona)
+- **Daniel Lowd** (University of Oregon)
 - **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
 - **Ártemis López** (Ph.D. Candidate, Universidade de Vigo)
 - **Sarah Masud** (Ph.D. Student)
