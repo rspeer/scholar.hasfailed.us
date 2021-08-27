@@ -154,6 +154,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Christina Wilmot** (Xoogler, Ph.D. student at UCLA)
 - **Marilee Zafaripour** (University of Oregon)
+- **Nick Ruest** (York University)
 
 <!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
 <!-- Adding to the end of the list causes merge conflicts. -->
