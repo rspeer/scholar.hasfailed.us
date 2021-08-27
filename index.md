@@ -132,6 +132,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Anoush Najarian** (Software Engineering Manager, CMG Board chair, GHC AI co-chair, previous: NeurIPS meetup co-chair, ICML virtual co-chair)
 - **Charlie Negri**
 - **Sylvia van Os**
+- **Neal Patwari** (Washington University in Saint Louis)
 - **Nicole Peterson** (UNC Charlotte)
 - **Avi Rappoport**
 - **J. Rosenbaum** (RMIT University)
