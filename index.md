@@ -134,6 +134,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Sylvia van Os**
 - **Neal Patwari** (Washington University in Saint Louis)
 - **Nicole Peterson** (UNC Charlotte)
+- **Jamie Price**
 - **Avi Rappoport**
 - **J. Rosenbaum** (RMIT University)
 - **Georgie Rowe** (University of Birmingham, UK)
