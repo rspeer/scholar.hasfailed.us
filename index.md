@@ -107,6 +107,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Jana Dunfield** (Queen's University)
 - **Michael Ensly**
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
+- **Vasundhara Gautam**
 - **Lauren Gawne** (La Trobe University)
 - **Pranav Goel** (University of Maryland)
 - **Sibylle Hess** (TU Eindhoven)
