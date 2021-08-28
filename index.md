@@ -149,6 +149,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Janelle Shane**
 - **Robyn Speer** (ConceptNet and explosion.ai)
 - **Katta Spiel**
+- **Evan Sterling** (University of Ottawa) 
 - **Abram Stern** (UC Santa Cruz)
 - **Catherine Stinson** (Queen's University)
 - **Arjun Subramonian** (University of California, Los Angeles and Queer in AI)
