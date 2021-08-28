@@ -148,6 +148,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Katta Spiel**
 - **Abram Stern** (UC Santa Cruz)
 - **Catherine Stinson** (Queen's University)
+- **Arjun Subramonian** (University of California, Los Angeles and Queer in AI)
 - **Danica J. Sutherland** (University of British Columbia and Alberta Machine Intelligence Institute)
 - **Zeerak Talat** (University of Sheffield and the Digital Democracies Institute, Simon Fraser University)
 - **Theresa Jean Tanenbaum** (University of California Irvine)
