@@ -136,6 +136,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Luke Oakden-Rayner** (University of Adelaide, Australia)
 - **Sylvia van Os**
 - **Neal Patwari** (Washington University in Saint Louis)
+- **James Peniston** (Florida State University)
 - **Nicole Peterson** (UNC Charlotte)
 - **Jamie Price**
 - **Avi Rappoport**
