@@ -110,6 +110,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Vasundhara Gautam**
 - **Lauren Gawne** (La Trobe University)
 - **Pranav Goel** (University of Maryland)
+- **Kate Grandprey-Shores**
 - **Sibylle Hess** (TU Eindhoven)
 - **Matthew Honnibal** (Explosion.ai)
 - **Sophie Huiberts** (Centrum Wiskunde & Informatica)
