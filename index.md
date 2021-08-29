@@ -97,6 +97,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Verity Allan** (University of Cambridge)
 - **Anna Barth** (Cornell University)
+- **Nick Barts** (University of Pittsburgh)
 - **Marisol N. Beck**
 - **Emily M. Bender** (University of Washington)
 - **Tiffany Chan** (University of Victoria Libraries)
