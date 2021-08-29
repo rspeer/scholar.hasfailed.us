@@ -97,6 +97,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Verity Allan** (University of Cambridge)
 - **Anna Barth** (Cornell University)
+- **Nick Barts** (University of Pittsburgh)
 - **Marisol N. Beck**
 - **Emily M. Bender** (University of Washington)
 - **Tiffany Chan** (University of Victoria Libraries)
@@ -137,6 +138,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Luke Oakden-Rayner** (University of Adelaide, Australia)
 - **Sylvia van Os**
 - **Neal Patwari** (Washington University in Saint Louis)
+- **James Peniston** (Florida State University)
 - **Nicole Peterson** (UNC Charlotte)
 - **Jamie Price**
 - **Avi Rappoport**
@@ -150,6 +152,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Janelle Shane**
 - **Robyn Speer** (ConceptNet and explosion.ai)
 - **Katta Spiel**
+- **Evan Sterling** (University of Ottawa) 
 - **Abram Stern** (UC Santa Cruz)
 - **Catherine Stinson** (Queen's University)
 - **Arjun Subramonian** (University of California, Los Angeles and Queer in AI)
