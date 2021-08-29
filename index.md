@@ -102,10 +102,11 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Suzanne Coomer** (Rush University Medical Center)
 - **Charles Earl** (Black in AI)
-- **Joaco De Entrambasaguas** (Ph.D. Candidate, Universidad de Zaragoza, Spain)
+- **Lukas Daniel Klausner** (St. Pölten University of Applied Sciences)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
 - **Michael Ensly**
+- **Joaco De Entrambasaguas** (Ph.D. Candidate, Universidad de Zaragoza, Spain)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
 - **Vasundhara Gautam**
 - **Lauren Gawne** (La Trobe University)
