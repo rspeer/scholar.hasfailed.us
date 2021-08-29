@@ -118,6 +118,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Sophie Huiberts** (Centrum Wiskunde & Informatica)
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
+- **Valentin Iovene** (Ph.D. Candidate, Inria, France)
 - **Paul Kaefer**, M.S.
 - **Ben Kaiser** (Princeton University)
 - **Brian Keegan** (University of Colorado Boulder)
