@@ -91,6 +91,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 
 ## Signers
 
+- **Mason Acevedo** (Harvey Mudd College)
 - **William Agnew** (University of Washington, Queer in AI)
 - **Sam Ahmed** (Leiden University)
 - **Jonathan Aldrich** (Carnegie Mellon University)
@@ -100,12 +101,12 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Nick Barts** (University of Pittsburgh)
 - **Marisol N. Beck**
 - **Emily M. Bender** (University of Washington)
+- **Alix Bird** (Ph.D. Candidate, Australian Institute of Machine Learning, The University of Adelaide)
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Suzanne Coomer** (Rush University Medical Center)
-- **Charles Earl** (Black in AI)
-- **Lukas Daniel Klausner** (St. Pölten University of Applied Sciences)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
+- **Charles Earl** (Black in AI)
 - **Michael Ensly**
 - **Joaco De Entrambasaguas** (Ph.D. Candidate, Universidad de Zaragoza, Spain)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
@@ -125,6 +126,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **M. Alex Kelly** (Carleton University)
 - **Megan Kennedy**
 - **Ahmed Khaled** (Princeton University)
+- **Lukas Daniel Klausner** (St. Pölten University of Applied Sciences)
 - **Harris Kornstein** (University of Arizona)
 - **Daniel Lowd** (University of Oregon)
 - **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
