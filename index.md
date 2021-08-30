@@ -104,6 +104,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Alix Bird** (Ph.D. Candidate, Australian Institute of Machine Learning, The University of Adelaide)
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Suzanne Coomer** (Rush University Medical Center)
+- **Ryan Cotterell** (ETH Zürich / University of Cambridge)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
 - **Charles Earl** (Black in AI)
