@@ -97,6 +97,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Jonathan Aldrich** (Carnegie Mellon University)
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Verity Allan** (University of Cambridge)
+- **Fatoumata Bah (University of Ottawa)
 - **Anna Barth** (Cornell University)
 - **Nick Barts** (University of Pittsburgh)
 - **Marisol N. Beck**
