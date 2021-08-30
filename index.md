@@ -171,7 +171,8 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Christina Wilmot** (Xoogler, Ph.D. student at UCLA)
 - **Marilee Zafaripour** (University of Oregon)
 - **Sam Zlotnik** (University of Florida)
-- **Vaughn Zrain** (Ph.D. student)
+- **Vaughn Zrain** (Ph.D. student))
+- **Tee Chuanromanee** (University of Notre Dame)
 
 <!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
 <!-- Adding to the end of the list causes merge conflicts. -->
