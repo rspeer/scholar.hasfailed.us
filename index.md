@@ -99,6 +99,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Verity Allan** (University of Cambridge)
 - **Delan Azabani** (Curtin University graduate)
+- **Fatoumata Bah** (University of Ottawa)
 - **Anna Barth** (Cornell University)
 - **Nick Barts** (University of Pittsburgh)
 - **Marisol N. Beck**
