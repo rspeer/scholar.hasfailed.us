@@ -109,10 +109,11 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Fatoumata Bah** (University of Ottawa)
 - **Anna Barth** (Cornell University)
 - **Nick Barts** (University of Pittsburgh)
+- **Adrian Bauer**
 - **Marisol N. Beck**
 - **Emily M. Bender** (University of Washington)
 - **Alix Bird** (Ph.D. Candidate, Australian Institute of Machine Learning, The University of Adelaide)
-- **Griffin Boyce**
+- **Griffin Boyce** (Google)
 - **Ozan Caglayan** (Imperial College London)
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Tee Chuanromanee** (University of Notre Dame)
