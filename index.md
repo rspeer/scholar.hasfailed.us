@@ -141,6 +141,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **M. Alex Kelly** (Carleton University)
 - **Megan Kennedy**
 - **Ahmed Khaled** (Princeton University)
+- **Christine Kim** (University of California, Los Angeles)
 - **Lukas Daniel Klausner** (St. Pölten University of Applied Sciences)
 - **Harris Kornstein** (University of Arizona)
 - **Daniel Lowd** (University of Oregon)
