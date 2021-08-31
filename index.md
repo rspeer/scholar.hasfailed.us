@@ -59,6 +59,12 @@ If Google is working on this now, they haven't communicated anything about it, a
 [thanksgiving-five]: https://www.washingtonpost.com/technology/2019/12/17/google-fires-fifth-engineer-who-alleges-retaliation-union-activity/
 [timnit-statement]: https://twitter.com/timnitGebru/status/1362579188549640195
 
+## Google Scholar is not accurate anyway
+
+A few folks in Queer in AI have found that many incorrect citations in machine learning and NLP publications arise due to the use of Google Scholar. Those problems include deadnaming, dropping many authors from the author list, incorrect last names, outdated author placements and so on. Queer in AI will be publishing a report about this soon.
+
+Editors should demand more responsible citation practices than simply Googling and pasting in the first thing you get.
+
 ## Our demands
 
 We demand that Google fully support the ability for trans authors to change their names, in accordance with the Committee on Publication Ethics' [principles on name changes][cope-principles].
