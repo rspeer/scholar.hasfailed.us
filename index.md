@@ -106,6 +106,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Emily M. Bender** (University of Washington)
 - **Alix Bird** (Ph.D. Candidate, Australian Institute of Machine Learning, The University of Adelaide)
 - **Tiffany Chan** (University of Victoria Libraries)
+- **Tee Chuanromanee** (University of Notre Dame)
 - **Suzanne Coomer** (Rush University Medical Center)
 - **Ryan Cotterell** (ETH Zürich / University of Cambridge)
 - **Miryam de Lhoneux** (Uppsala University / KU Leuven / University of Copenhagen)
@@ -158,6 +159,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Eddie Antonio Santos** (University College Dublin)
 - **Michael Schlichtkrull** (University of Cambridge)
 - **Janelle Shane**
+- **Luca Soldaini** (Queer in AI)
 - **Robyn Speer** (ConceptNet and explosion.ai)
 - **Katta Spiel**
 - **Evan Sterling** (University of Ottawa) 
@@ -176,8 +178,6 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Marilee Zafaripour** (University of Oregon)
 - **Sam Zlotnik** (University of Florida)
 - **Vaughn Zrain** (Ph.D. student)
-- **Luca Soldaini** (Queer in AI)
-
 <!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
 <!-- Adding to the end of the list causes merge conflicts. -->
 <!-- Of course, disregard this if your name is alphabetically last. -->
