@@ -92,6 +92,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 ## Signers
 
 - **Mason Acevedo** (Harvey Mudd College)
+- **Emily A. Aery Jones** (Stanford University)
 - **William Agnew** (University of Washington, Queer in AI)
 - **Sam Ahmed** (Leiden University)
 - **Jonathan Aldrich** (Carnegie Mellon University)
