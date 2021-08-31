@@ -92,12 +92,14 @@ Feel free to list an affiliation with an institution, organization, or company, 
 ## Signers
 
 - **Mason Acevedo** (Harvey Mudd College)
+- **Emily A. Aery Jones** (Stanford University)
 - **William Agnew** (University of Washington, Queer in AI)
 - **Sam Ahmed** (Leiden University)
 - **Jonathan Aldrich** (Carnegie Mellon University)
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Verity Allan** (University of Cambridge)
-- **Fatoumata Bah (University of Ottawa)
+- **Delan Azabani** (Curtin University graduate)
+- **Fatoumata Bah** (University of Ottawa)
 - **Anna Barth** (Cornell University)
 - **Nick Barts** (University of Pittsburgh)
 - **Marisol N. Beck**
@@ -106,6 +108,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Suzanne Coomer** (Rush University Medical Center)
 - **Ryan Cotterell** (ETH Zürich / University of Cambridge)
+- **Miryam de Lhoneux** (Uppsala University / KU Leuven / University of Copenhagen)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
 - **Charles Earl** (Black in AI)
@@ -173,6 +176,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Marilee Zafaripour** (University of Oregon)
 - **Sam Zlotnik** (University of Florida)
 - **Vaughn Zrain** (Ph.D. student)
+- **Luca Soldaini** (Queer in AI)
 
 <!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
 <!-- Adding to the end of the list causes merge conflicts. -->
