@@ -106,6 +106,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Suzanne Coomer** (Rush University Medical Center)
 - **Ryan Cotterell** (ETH Zürich / University of Cambridge)
+- **Miryam de Lhoneux** (Uppsala University / KU Leuven / University of Copenhagen)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
 - **Charles Earl** (Black in AI)
