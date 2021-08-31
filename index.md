@@ -105,16 +105,18 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Marisol N. Beck**
 - **Emily M. Bender** (University of Washington)
 - **Alix Bird** (Ph.D. Candidate, Australian Institute of Machine Learning, The University of Adelaide)
+- **Griffin Boyce**
+- **Ozan Caglayan** (Imperial College London)
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Tee Chuanromanee** (University of Notre Dame)
 - **Suzanne Coomer** (Rush University Medical Center)
 - **Ryan Cotterell** (ETH Zürich / University of Cambridge)
+- **Joaco De Entrambasaguas** (Ph.D. Candidate, Universidad de Zaragoza, Spain)
 - **Miryam de Lhoneux** (Uppsala University / KU Leuven / University of Copenhagen)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
 - **Charles Earl** (Black in AI)
 - **Michael Ensly**
-- **Joaco De Entrambasaguas** (Ph.D. Candidate, Universidad de Zaragoza, Spain)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
 - **Vasundhara Gautam**
 - **Lauren Gawne** (La Trobe University)
@@ -150,6 +152,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **James Peniston** (Florida State University)
 - **Nicole Peterson** (UNC Charlotte)
 - **Jamie Price**
+- **Maya Raman** (University of California, Los Angeles)
 - **Avi Rappoport**
 - **J. Rosenbaum** (RMIT University)
 - **Georgie Rowe** (University of Birmingham, UK)
@@ -162,6 +165,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Luca Soldaini** (Queer in AI)
 - **Robyn Speer** (ConceptNet and explosion.ai)
 - **Katta Spiel**
+- **Blake Stacey** (University of Massachusetts Boston)
 - **Evan Sterling** (University of Ottawa) 
 - **Abram Stern** (UC Santa Cruz)
 - **Catherine Stinson** (Queen's University)
