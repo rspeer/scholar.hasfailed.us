@@ -158,6 +158,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Charlie Negri**
 - **Luke Oakden-Rayner** (University of Adelaide, Australia)
 - **Sylvia van Os**
+- **Juan Pajaro Velasquez** (Youth Observatory ISOC and Queer in AI)
 - **Neal Patwari** (Washington University in Saint Louis)
 - **James Peniston** (Florida State University)
 - **Nicole Peterson** (UNC Charlotte)
