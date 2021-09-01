@@ -116,6 +116,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Griffin Boyce** (Google)
 - **Ozan Caglayan** (Imperial College London)
 - **Tiffany Chan** (University of Victoria Libraries)
+- **Javier Chiyah-Garcia** (Ph.D. Candidate, Heriot-Watt University)
 - **Tee Chuanromanee** (University of Notre Dame)
 - **Suzanne Coomer** (Rush University Medical Center)
 - **Ryan Cotterell** (ETH Zürich / University of Cambridge)
