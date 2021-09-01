@@ -185,6 +185,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Z Toups** (New Mexico State University)
 - **Melissa Valen**
 - **Sam Vente**
+- **Matthew Wang**
 - **Nif Ward**
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Piper Langer Weida** (Harvey Mudd College)
