@@ -116,6 +116,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Griffin Boyce** (Google)
 - **Ozan Caglayan** (Imperial College London)
 - **Tiffany Chan** (University of Victoria Libraries)
+- **Javier Chiyah-Garcia** (Ph.D. Candidate, Heriot-Watt University)
 - **Tee Chuanromanee** (University of Notre Dame)
 - **Suzanne Coomer** (Rush University Medical Center)
 - **Ryan Cotterell** (ETH Zürich / University of Cambridge)
@@ -136,6 +137,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
 - **Valentin Iovene** (Ph.D. Candidate, Inria, France)
+- **Cassandra Jacobs** (University at Buffalo)
 - **Paul Kaefer**, M.S.
 - **Ben Kaiser** (Princeton University)
 - **Brian Keegan** (University of Colorado Boulder)
@@ -158,6 +160,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Charlie Negri**
 - **Luke Oakden-Rayner** (University of Adelaide, Australia)
 - **Sylvia van Os**
+- **Juan Pajaro Velasquez** (Youth Observatory ISOC and Queer in AI)
 - **Neal Patwari** (Washington University in Saint Louis)
 - **James Peniston** (Florida State University)
 - **Nicole Peterson** (UNC Charlotte)
