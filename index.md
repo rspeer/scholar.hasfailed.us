@@ -148,6 +148,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Daniel Lowd** (University of Oregon)
 - **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
 - **Ártemis López** (Ph.D. Candidate, Universidade de Vigo)
+- **Emma Manning** (Georgetown University)
 - **Sarah Masud** (Ph.D. Student)
 - **Allison McDonald** (University of Michigan)
 - **Kara McShane** (Ursinus College)
@@ -186,6 +187,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Melissa Valen**
 - **Sam Vente**
 - **Matthew Wang**
+- **Kestrel Ward** (MLIS student, Florida State University; employed, University of Florida)
 - **Nif Ward**
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Piper Langer Weida** (Harvey Mudd College)
