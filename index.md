@@ -133,6 +133,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Lauren Gawne** (La Trobe University)
 - **Pranav Goel** (University of Maryland)
 - **Kate Grandprey-Shores**
+- **Loïc Grobol** (Université Paris Nanterre)
 - **Sibylle Hess** (TU Eindhoven)
 - **Matthew Honnibal** (Explosion.ai)
 - **Sophie Huiberts** (Centrum Wiskunde & Informatica)
@@ -168,6 +169,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Nicole Peterson** (UNC Charlotte)
 - **Jamie Price**
 - **Maya Raman** (University of California, Los Angeles)
+- **Gabor Recski**
 - **Avi Rappoport**
 - **J. Rosenbaum** (RMIT University)
 - **Georgie Rowe** (University of Birmingham, UK)
