@@ -137,6 +137,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
 - **Valentin Iovene** (Ph.D. Candidate, Inria, France)
+- **Cassandra Jacobs** (University at Buffalo)
 - **Paul Kaefer**, M.S.
 - **Ben Kaiser** (Princeton University)
 - **Brian Keegan** (University of Colorado Boulder)
