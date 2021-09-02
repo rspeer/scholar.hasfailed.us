@@ -167,6 +167,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Nicole Peterson** (UNC Charlotte)
 - **Jamie Price**
 - **Maya Raman** (University of California, Los Angeles)
+- **Gabor Recski**
 - **Avi Rappoport**
 - **J. Rosenbaum** (RMIT University)
 - **Georgie Rowe** (University of Birmingham, UK)
