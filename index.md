@@ -172,6 +172,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Maya Raman** (University of California, Los Angeles)
 - **Gabor Recski**
 - **Avi Rappoport**
+- **Anna Ritz** (Reed College)
 - **J. Rosenbaum** (RMIT University)
 - **Georgie Rowe** (University of Birmingham, UK)
 - **Nick Ruest** (York University)
