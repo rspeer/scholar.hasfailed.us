@@ -150,6 +150,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Christine Kim** (University of California, Los Angeles)
 - **Lukas Daniel Klausner** (St. Pölten University of Applied Sciences)
 - **Harris Kornstein** (University of Arizona)
+- **Morag Lewis** (King's College London)
 - **Daniel Lowd** (University of Oregon)
 - **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
 - **Ártemis López** (Ph.D. Candidate, Universidade de Vigo)
