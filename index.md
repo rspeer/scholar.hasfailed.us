@@ -192,6 +192,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Danica J. Sutherland** (University of British Columbia and Alberta Machine Intelligence Institute)
 - **Zeerak Talat** (University of Sheffield and the Digital Democracies Institute, Simon Fraser University)
 - **Theresa Jean Tanenbaum** (University of California Irvine)
+- **Alexandra Torresquintero**
 - **Z Toups** (New Mexico State University)
 - **Melissa Valen**
 - **Sam Vente**
