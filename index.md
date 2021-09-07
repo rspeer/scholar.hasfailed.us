@@ -156,6 +156,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Ártemis López** (Ph.D. Candidate, Universidade de Vigo)
 - **Emma Manning** (Georgetown University)
 - **Sarah Masud** (Ph.D. Student)
+- **Paul O'Leary McCann** (Explosion.ai)
 - **Allison McDonald** (University of Michigan)
 - **Kara McShane** (Ursinus College)
 - **Julia Colleen Miller** (The Australian National University)
