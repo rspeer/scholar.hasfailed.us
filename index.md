@@ -134,6 +134,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Pranav Goel** (University of Maryland)
 - **Kate Grandprey-Shores**
 - **Loïc Grobol** (Université Paris Nanterre)
+- **Donald Guy**
 - **Sibylle Hess** (TU Eindhoven)
 - **Matthew Honnibal** (Explosion.ai)
 - **Sophie Huiberts** (Centrum Wiskunde & Informatica)
@@ -175,6 +176,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Avi Rappoport**
 - **Anna Ritz** (Reed College)
 - **J. Rosenbaum** (RMIT University)
+- **Andreana Rosnik**
 - **Georgie Rowe** (University of Birmingham, UK)
 - **Nick Ruest** (York University)
 - **Mrinmaya Sachan** (ETH Zurich)
@@ -193,8 +195,10 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Danica J. Sutherland** (University of British Columbia and Alberta Machine Intelligence Institute)
 - **Zeerak Talat** (University of Sheffield and the Digital Democracies Institute, Simon Fraser University)
 - **Theresa Jean Tanenbaum** (University of California Irvine)
+- **Alex Temple** (Arizona State University)
 - **Alexandra Torresquintero**
 - **Z Toups** (New Mexico State University)
+- **priya v.** (Yale University, Foothill College)
 - **Melissa Valen**
 - **Sam Vente**
 - **Matthew Wang**
