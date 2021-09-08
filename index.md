@@ -97,6 +97,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 
 ## Signers
 
+- **Pranav A** (Queer in AI)
 - **Mason Acevedo** (Harvey Mudd College)
 - **Thomas M. Adams**
 - **Emily A. Aery Jones** (Stanford University)
