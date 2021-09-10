@@ -41,7 +41,7 @@ Many trans authors consider it easier to change careers than to change their nam
 
 This issue can affect other authors as well. Many people change names, for many reasons. The unrealistic assumption that people don't change names reflects that the system was largely designed by and for cis men.
 
-There are workarounds that work for some people, such as married cis women who choose not to change their names for the sake of their academic careers. But because of the harm that is built into deadnaming, trans authors have few alternatives.
+For instance, people who get married or divorced are often pressured to not change their last name to maintain a publication record, regardless of the immense personal significance of such life events. A better process for trans authors to change their names also eliminates the need for such uncomfortable compromises. 
 
 ## But I've heard Google is a great place for trans employees! Surely they're working on it.
 
