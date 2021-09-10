@@ -97,6 +97,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 
 ## Signers
 
+- **Pranav A** (Queer in AI)
 - **Mason Acevedo** (Harvey Mudd College)
 - **Thomas M. Adams**
 - **Emily A. Aery Jones** (Stanford University)
@@ -143,6 +144,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Lilian Hunt** (EDIS, Wellcome Trust)
 - **Valentin Iovene** (Ph.D. Candidate, Inria, France)
 - **Cassandra Jacobs** (University at Buffalo)
+- **Kris Joseph** (York University)
 - **Paul Kaefer**, M.S.
 - **Ben Kaiser** (Princeton University)
 - **Brian Keegan** (University of Colorado Boulder)
