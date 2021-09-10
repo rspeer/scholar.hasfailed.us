@@ -128,6 +128,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Jana Dunfield** (Queen's University)
 - **Charles Earl** (Black in AI)
 - **Michael Ensly**
+- **Claire Erek** (Ph.D. candidate, Quadram Institute/University of East Anglia, UK)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
 - **Vasundhara Gautam**
 - **Lauren Gawne** (La Trobe University)
