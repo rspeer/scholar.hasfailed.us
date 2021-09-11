@@ -182,6 +182,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Andreana Rosnik**
 - **Georgie Rowe** (University of Birmingham, UK)
 - **Nick Ruest** (York University)
+- **Ashwin S** (Queer in AI)
 - **Mrinmaya Sachan** (ETH Zurich)
 - **Luca Salerno** (Ph.D.; co-chair, City of Pittsburgh LGBTQIA+ Commission)
 - **Eddie Antonio Santos** (University College Dublin)
