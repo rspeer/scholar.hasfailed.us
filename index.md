@@ -152,6 +152,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Megan Kennedy**
 - **Ahmed Khaled** (Princeton University)
 - **Christine Kim** (University of California, Los Angeles)
+- **Mara Kirdani-Ryan** (University of Washington, Seattle)
 - **Lukas Daniel Klausner** (St. Pölten University of Applied Sciences)
 - **Harris Kornstein** (University of Arizona)
 - **Morag Lewis** (King's College London)
