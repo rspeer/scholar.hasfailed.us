@@ -165,6 +165,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Allison McDonald** (University of Michigan)
 - **Kara McShane** (Ursinus College)
 - **Julia Colleen Miller** (The Australian National University)
+- **Lesley Milnes** (The Sainsbury Laboratory)
 - **Caleb Moses** (Aotearoa Māori, Ngāpuhi tribe; Cook Island Māori, Aitutaki)
 - **Anoush Najarian** (Software Engineering Manager, CMG Board chair, GHC AI co-chair, previous: NeurIPS meetup co-chair, ICML virtual co-chair)
 - **Charlie Negri**
