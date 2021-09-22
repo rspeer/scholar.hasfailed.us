@@ -99,7 +99,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 
 - **Pranav A** (Queer in AI)
 - **Mason Acevedo** (Harvey Mudd College)
-- **Thomas M. Adams**
+- **Thomas M. Adams** (John Innes Centre, UK)
 - **Emily A. Aery Jones** (Stanford University)
 - **William Agnew** (University of Washington, Queer in AI)
 - **Sam Ahmed** (Leiden University)
