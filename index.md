@@ -114,6 +114,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Marisol N. Beck**
 - **Emily M. Bender** (University of Washington)
 - **Alix Bird** (Ph.D. Candidate, Australian Institute of Machine Learning, The University of Adelaide)
+- **Bronwyn Bjorkman** (Queen's University)
 - **Griffin Boyce** (Google)
 - **Ozan Caglayan** (Imperial College London)
 - **Tiffany Chan** (University of Victoria Libraries)
