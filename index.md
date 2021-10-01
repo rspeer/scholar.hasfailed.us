@@ -218,6 +218,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Marilee Zafaripour** (University of Oregon)
 - **Sam Zlotnik** (University of Florida)
 - **Vaughn Zrain** (Ph.D. student)
+- **Ruth Kristianingsih** (Ph.D. student at John Innes Centre, UK)
 <!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
 <!-- Adding to the end of the list causes merge conflicts. -->
 <!-- Of course, disregard this if your name is alphabetically last. -->
