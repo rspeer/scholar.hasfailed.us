@@ -138,6 +138,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Kate Grandprey-Shores**
 - **Loïc Grobol** (Université Paris Nanterre)
 - **Donald Guy**
+- **Alfredo Hernandez**
 - **Sibylle Hess** (TU Eindhoven)
 - **Matthew Honnibal** (Explosion.ai)
 - **Sophie Huiberts** (Centrum Wiskunde & Informatica)
@@ -156,6 +157,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Mara Kirdani-Ryan** (University of Washington, Seattle)
 - **Lukas Daniel Klausner** (St. Pölten University of Applied Sciences)
 - **Harris Kornstein** (University of Arizona)
+- **Ruth Kristianingsih** (Ph.D. student at John Innes Centre, UK)
 - **Morag Lewis** (King's College London)
 - **Daniel Lowd** (University of Oregon)
 - **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
@@ -218,7 +220,6 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Marilee Zafaripour** (University of Oregon)
 - **Sam Zlotnik** (University of Florida)
 - **Vaughn Zrain** (Ph.D. student)
-- **Ruth Kristianingsih** (Ph.D. student at John Innes Centre, UK)
 <!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
 <!-- Adding to the end of the list causes merge conflicts. -->
 <!-- Of course, disregard this if your name is alphabetically last. -->
