@@ -139,6 +139,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Kate Grandprey-Shores**
 - **Loïc Grobol** (Université Paris Nanterre)
 - **Donald Guy**
+- **Jacob Hamilton** (John Innes Centre, UK)
 - **Alfredo Hernandez**
 - **Sibylle Hess** (TU Eindhoven)
 - **Matthew Honnibal** (Explosion.ai)
