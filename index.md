@@ -199,6 +199,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Robyn Speer** (ConceptNet and explosion.ai)
 - **Katta Spiel**
 - **Blake Stacey** (University of Massachusetts Boston)
+- **Francesca L. Stefanato** (John Innes Centre)
 - **Evan Sterling** (University of Ottawa) 
 - **Abram Stern** (UC Santa Cruz)
 - **Catherine Stinson** (Queen's University)
