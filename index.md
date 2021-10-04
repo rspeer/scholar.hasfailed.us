@@ -117,6 +117,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Bronwyn Bjorkman** (Queen's University)
 - **Griffin Boyce** (Google)
 - **Ozan Caglayan** (Imperial College London)
+- **Alfredo Carpineti** (Pride in STEM)
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Javier Chiyah-Garcia** (Ph.D. Candidate, Heriot-Watt University)
 - **Tee Chuanromanee** (University of Notre Dame)
