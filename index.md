@@ -116,6 +116,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Alix Bird** (Ph.D. Candidate, Australian Institute of Machine Learning, The University of Adelaide)
 - **Bronwyn Bjorkman** (Queen's University)
 - **Griffin Boyce** (Google)
+- **Christian Brickhouse** (Stanford University)
 - **Ozan Caglayan** (Imperial College London)
 - **Alfredo Carpineti** (Pride in STEM)
 - **Tiffany Chan** (University of Victoria Libraries)
