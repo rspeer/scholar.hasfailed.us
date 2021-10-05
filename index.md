@@ -131,6 +131,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Jana Dunfield** (Queen's University)
 - **Charles Earl** (Black in AI)
+- **Liam Egan** (The Sainsbury Laboratory)
 - **Michael Ensly**
 - **Claire Erek** (Ph.D. candidate, Quadram Institute/University of East Anglia, UK)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
