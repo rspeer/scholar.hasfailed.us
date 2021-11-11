@@ -106,6 +106,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Jonathan Aldrich** (Carnegie Mellon University)
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Verity Allan** (University of Cambridge)
+- **Mikio Akagi** (Texas Christian University)
 - **Delan Azabani** (Curtin University graduate)
 - **Fatoumata Bah** (University of Ottawa)
 - **Anna Barth** (Cornell University)
@@ -130,13 +131,15 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Miryam de Lhoneux** (Uppsala University / KU Leuven / University of Copenhagen)
 - **Aniello De Santo** (University of Utah)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
+- **Becca Doherty** (John Innes Center)
 - **Jana Dunfield** (Queen's University)
 - **Charles Earl** (Black in AI)
 - **Liam Egan** (The Sainsbury Laboratory)
 - **Michael Ensly**
-- **Claire Erek** (Ph.D. candidate, Quadram Institute/University of East Anglia, UK)
+- **Claire Elek** (Ph.D. candidate, Quadram Institute/University of East Anglia, UK)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
 - **Vasundhara Gautam**
+- **Kaija Gahm** (PhD Student, UCLA)
 - **Lauren Gawne** (La Trobe University)
 - **Pranav Goel** (University of Maryland)
 - **Kate Grandprey-Shores**
@@ -146,6 +149,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Alfredo Hernandez**
 - **Sibylle Hess** (TU Eindhoven)
 - **Matthew Honnibal** (Explosion.ai)
+- **Aoife Hughes** (John Innes Center)
 - **Sophie Huiberts** (Centrum Wiskunde & Informatica)
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
@@ -202,7 +206,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Michael Schlichtkrull** (University of Cambridge)
 - **Janelle Shane**
 - **Luca Soldaini** (Queer in AI)
-- **Robyn Speer** (ConceptNet and explosion.ai)
+- **Robyn Speer** (ConceptNet)
 - **Katta Spiel**
 - **Blake Stacey** (University of Massachusetts Boston)
 - **Francesca L. Stefanato** (John Innes Centre)
@@ -214,6 +218,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Zeerak Talat** (University of Sheffield and the Digital Democracies Institute, Simon Fraser University)
 - **Theresa Jean Tanenbaum** (University of California Irvine)
 - **Alex Temple** (Arizona State University)
+- **Silas Triller** (University of Exeter MSc graduate; Quadram Institute technician)
 - **Alexandra Torresquintero**
 - **Z Toups** (New Mexico State University)
 - **priya v.** (Yale University, Foothill College)
