@@ -96,7 +96,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 [pull-request]: https://github.com/rspeer/scholar.hasfailed.us/edit/main/index.md
 
 ## Signers
-
+- **Emilie Knight** (John Innes Centre, UK)
 - **Pranav A** (Queer in AI)
 - **Mason Acevedo** (Harvey Mudd College)
 - **Thomas M. Adams** (John Innes Centre, UK)
