@@ -99,13 +99,14 @@ Feel free to list an affiliation with an institution, organization, or company, 
 
 - **Pranav A** (Queer in AI)
 - **Mason Acevedo** (Harvey Mudd College)
-- **Thomas M. Adams**
+- **Thomas M. Adams** (John Innes Centre, UK)
 - **Emily A. Aery Jones** (Stanford University)
 - **William Agnew** (University of Washington, Queer in AI)
 - **Sam Ahmed** (Leiden University)
 - **Jonathan Aldrich** (Carnegie Mellon University)
 - **Ali Alkhatib** (Center for Applied Data Ethics, University of San Francisco)
 - **Verity Allan** (University of Cambridge)
+- **Mikio Akagi** (Texas Christian University)
 - **Delan Azabani** (Curtin University graduate)
 - **Fatoumata Bah** (University of Ottawa)
 - **Anna Barth** (Cornell University)
@@ -114,8 +115,12 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Marisol N. Beck**
 - **Emily M. Bender** (University of Washington)
 - **Alix Bird** (Ph.D. Candidate, Australian Institute of Machine Learning, The University of Adelaide)
+- **Bronwyn Bjorkman** (Queen's University)
+- **Jacob Boerma**
 - **Griffin Boyce** (Google)
+- **Christian Brickhouse** (Stanford University)
 - **Ozan Caglayan** (Imperial College London)
+- **Alfredo Carpineti** (Pride in STEM)
 - **Tiffany Chan** (University of Victoria Libraries)
 - **Javier Chiyah-Garcia** (Ph.D. Candidate, Heriot-Watt University)
 - **Tee Chuanromanee** (University of Notre Dame)
@@ -126,19 +131,25 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Miryam de Lhoneux** (Uppsala University / KU Leuven / University of Copenhagen)
 - **Aniello De Santo** (University of Utah)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
+- **Becca Doherty** (John Innes Center)
 - **Jana Dunfield** (Queen's University)
 - **Charles Earl** (Black in AI)
+- **Liam Egan** (The Sainsbury Laboratory)
 - **Michael Ensly**
-- **Claire Erek** (Ph.D. candidate, Quadram Institute/University of East Anglia, UK)
+- **Claire Elek** (Ph.D. candidate, Quadram Institute/University of East Anglia, UK)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
 - **Vasundhara Gautam**
+- **Kaija Gahm** (PhD Student, UCLA)
 - **Lauren Gawne** (La Trobe University)
 - **Pranav Goel** (University of Maryland)
 - **Kate Grandprey-Shores**
 - **Loïc Grobol** (Université Paris Nanterre)
 - **Donald Guy**
+- **Jacob Hamilton** (John Innes Centre, UK)
+- **Alfredo Hernandez**
 - **Sibylle Hess** (TU Eindhoven)
 - **Matthew Honnibal** (Explosion.ai)
+- **Aoife Hughes** (John Innes Center)
 - **Sophie Huiberts** (Centrum Wiskunde & Informatica)
 - **Emma C. Humphries**
 - **Lilian Hunt** (EDIS, Wellcome Trust)
@@ -152,8 +163,11 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Megan Kennedy**
 - **Ahmed Khaled** (Princeton University)
 - **Christine Kim** (University of California, Los Angeles)
+- **Mara Kirdani-Ryan** (University of Washington, Seattle)
 - **Lukas Daniel Klausner** (St. Pölten University of Applied Sciences)
 - **Harris Kornstein** (University of Arizona)
+- **Megh Krishnaswamy** (University of Arizona)
+- **Ruth Kristianingsih** (Ph.D. student at John Innes Centre, UK)
 - **Morag Lewis** (King's College London)
 - **Daniel Lowd** (University of Oregon)
 - **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
@@ -164,8 +178,10 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Allison McDonald** (University of Michigan)
 - **Kara McShane** (Ursinus College)
 - **Julia Colleen Miller** (The Australian National University)
+- **Lesley Milnes** (The Sainsbury Laboratory)
 - **Caleb Moses** (Aotearoa Māori, Ngāpuhi tribe; Cook Island Māori, Aitutaki)
 - **Anoush Najarian** (Software Engineering Manager, CMG Board chair, GHC AI co-chair, previous: NeurIPS meetup co-chair, ICML virtual co-chair)
+- **Jeffrey Negrea** (Ph.D. Candidate, University of Toronto)
 - **Charlie Negri**
 - **Luke Oakden-Rayner** (University of Adelaide, Australia)
 - **Sylvia van Os**
@@ -182,15 +198,18 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Andreana Rosnik**
 - **Georgie Rowe** (University of Birmingham, UK)
 - **Nick Ruest** (York University)
+- **Ashwin S** (Queer in AI)
 - **Mrinmaya Sachan** (ETH Zurich)
 - **Luca Salerno** (Ph.D.; co-chair, City of Pittsburgh LGBTQIA+ Commission)
+- **John Samuel** 
 - **Eddie Antonio Santos** (University College Dublin)
 - **Michael Schlichtkrull** (University of Cambridge)
 - **Janelle Shane**
 - **Luca Soldaini** (Queer in AI)
-- **Robyn Speer** (ConceptNet and explosion.ai)
+- **Robyn Speer** (ConceptNet)
 - **Katta Spiel**
 - **Blake Stacey** (University of Massachusetts Boston)
+- **Francesca L. Stefanato** (John Innes Centre)
 - **Evan Sterling** (University of Ottawa) 
 - **Abram Stern** (UC Santa Cruz)
 - **Catherine Stinson** (Queen's University)
@@ -199,6 +218,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Zeerak Talat** (University of Sheffield and the Digital Democracies Institute, Simon Fraser University)
 - **Theresa Jean Tanenbaum** (University of California Irvine)
 - **Alex Temple** (Arizona State University)
+- **Silas Triller** (University of Exeter MSc graduate; Quadram Institute technician)
 - **Alexandra Torresquintero**
 - **Z Toups** (New Mexico State University)
 - **priya v.** (Yale University, Foothill College)
