@@ -141,6 +141,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Vasundhara Gautam**
 - **Kaija Gahm** (PhD Student, UCLA)
 - **Lauren Gawne** (La Trobe University)
+- **Rebecca Gelernter**
 - **Pranav Goel** (University of Maryland)
 - **Kate Grandprey-Shores**
 - **Loïc Grobol** (Université Paris Nanterre)
