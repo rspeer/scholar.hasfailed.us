@@ -186,6 +186,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Anoush Najarian** (Software Engineering Manager, CMG Board chair, GHC AI co-chair, previous: NeurIPS meetup co-chair, ICML virtual co-chair)
 - **Jeffrey Negrea** (Ph.D. Candidate, University of Toronto)
 - **Charlie Negri**
+- **Mark Neumann** (AI2)
 - **Luke Oakden-Rayner** (University of Adelaide, Australia)
 - **Sylvia van Os**
 - **Juan Pajaro Velasquez** (Youth Observatory ISOC and Queer in AI)
