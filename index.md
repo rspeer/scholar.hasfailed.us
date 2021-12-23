@@ -207,6 +207,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Eddie Antonio Santos** (University College Dublin)
 - **Michael Schlichtkrull** (University of Cambridge)
 - **Janelle Shane**
+- **Ashutosh Shankar** (PhD student)
 - **Luca Soldaini** (Queer in AI)
 - **Robyn Speer** (ConceptNet)
 - **Katta Spiel**
