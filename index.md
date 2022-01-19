@@ -125,6 +125,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Javier Chiyah-Garcia** (Ph.D. Candidate, Heriot-Watt University)
 - **Tee Chuanromanee** (University of Notre Dame)
 - **Henry M. Clever** (Georgia Institute of Technology)
+- **Caroline Collange** (Inria)
 - **Suzanne Coomer** (Rush University Medical Center)
 - **Ryan Cotterell** (ETH Zürich / University of Cambridge)
 - **Joaco De Entrambasaguas** (Ph.D. Candidate, Universidad de Zaragoza, Spain)
