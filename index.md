@@ -132,8 +132,10 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Joaco De Entrambasaguas** (Ph.D. Candidate, Universidad de Zaragoza, Spain)
 - **Miryam de Lhoneux** (Uppsala University / KU Leuven / University of Copenhagen)
 - **Aniello De Santo** (University of Utah)
+- **Alicia DeVos** (Carnegie Mellon University)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Becca Doherty** (John Innes Center)
+- **Eleanor Drage**
 - **Jana Dunfield** (Queen's University)
 - **Charles Earl** (Black in AI)
 - **Liam Egan** (The Sainsbury Laboratory)
