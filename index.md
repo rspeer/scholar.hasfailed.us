@@ -114,6 +114,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Adrian Bauer**
 - **Marisol N. Beck**
 - **Emily M. Bender** (University of Washington)
+- **Natalia Y. Bilenko**
 - **Alix Bird** (Ph.D. Candidate, Australian Institute of Machine Learning, The University of Adelaide)
 - **Bronwyn Bjorkman** (Queen's University)
 - **Jacob Boerma**
