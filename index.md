@@ -211,6 +211,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Luca Salerno** (Ph.D.; co-chair, City of Pittsburgh LGBTQIA+ Commission)
 - **John Samuel** 
 - **Eddie Antonio Santos** (University College Dublin)
+- **Mark Schultz** (PhD Student, UCSD)
 - **Michael Schlichtkrull** (University of Cambridge)
 - **Janelle Shane**
 - **Ashutosh Shankar** (PhD student)
