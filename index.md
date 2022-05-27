@@ -135,7 +135,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Alicia DeVos** (Carnegie Mellon University)
 - **Anna Disney** (Royal Prince Alfred Hospital, Sydney)
 - **Becca Doherty** (John Innes Center)
-- **Eleanor Drage**
+- **Eleanor Drage** (University of Cambridge)
 - **Jana Dunfield** (Queen's University)
 - **Charles Earl** (Black in AI)
 - **Liam Egan** (The Sainsbury Laboratory)
