@@ -149,7 +149,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Pranav Goel** (University of Maryland)
 - **Kate Grandprey-Shores**
 - **Loïc Grobol** (Université Paris Nanterre)
-- **Siddharth Gupta** (MSc Student IIT Delhi)
+- **Siddharth Gupta** (MSc Student, IIT Delhi)
 - **Donald Guy**
 - **Jacob Hamilton** (John Innes Centre, UK)
 - **Alfredo Hernandez**
