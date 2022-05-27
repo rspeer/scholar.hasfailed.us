@@ -203,6 +203,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Gabor Recski**
 - **Avi Rappoport**
 - **Anna Ritz** (Reed College)
+- **Pedro Rodriguez** (Research Scientist)
 - **J. Rosenbaum** (RMIT University)
 - **Andreana Rosnik**
 - **Georgie Rowe** (University of Birmingham, UK)
@@ -245,7 +246,6 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Marilee Zafaripour** (University of Oregon)
 - **Sam Zlotnik** (University of Florida)
 - **Vaughn Zrain** (Ph.D. student)
-- **Pedro Rodriguez** (Research Scientist)
 <!-- Please add your name where it goes in alphabetical order by surname, not to the end of the list. -->
 <!-- Adding to the end of the list causes merge conflicts. -->
 <!-- Of course, disregard this if your name is alphabetically last. -->
