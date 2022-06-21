@@ -148,6 +148,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Rebecca Gelernter**
 - **Pranav Goel** (University of Maryland)
 - **Kate Grandprey-Shores**
+- **Gavia Gray** (Vector Institute and Dalhousie University)
 - **Loïc Grobol** (Université Paris Nanterre)
 - **Siddharth Gupta** (MSc Student, IIT Delhi)
 - **Donald Guy**
