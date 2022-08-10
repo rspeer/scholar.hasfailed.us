@@ -198,6 +198,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Neal Patwari** (Washington University in Saint Louis)
 - **James Peniston** (Florida State University)
 - **Nicole Peterson** (UNC Charlotte)
+- **Paul R. Pival** (University of Calgary)
 - **Jamie Price**
 - **Maya Raman** (University of California, Los Angeles)
 - **Gabor Recski**
