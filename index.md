@@ -243,6 +243,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Piper Langer Weida** (Harvey Mudd College)
 - **Christina Wilmot** (Xoogler, Ph.D. student at UCLA)
 - **avery wrenne** 
+- **Michael Miller Yoder** (Carnegie Mellon University)
 - **Marilee Zafaripour** (University of Oregon)
 - **Sam Zlotnik** (University of Florida)
 - **Vaughn Zrain** (Ph.D. student)
