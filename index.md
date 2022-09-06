@@ -137,6 +137,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Becca Doherty** (John Innes Center)
 - **Eleanor Drage** (University of Cambridge)
 - **Jana Dunfield** (Queen's University)
+- **Richard Ean** (Queen's University)
 - **Charles Earl** (Black in AI)
 - **Liam Egan** (The Sainsbury Laboratory)
 - **Michael Ensly**
