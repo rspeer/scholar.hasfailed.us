@@ -202,6 +202,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Nicole Peterson** (UNC Charlotte)
 - **Paul R. Pival** (University of Calgary)
 - **Jamie Price**
+- **Julien A. Raemy** (University of Basel)
 - **Maya Raman** (University of California, Los Angeles)
 - **Gabor Recski**
 - **Gwen Rehrig** (University of California, Davis)
