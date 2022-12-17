@@ -171,6 +171,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Megan Kennedy**
 - **Vijay Keswani** 
 - **Ahmed Khaled** (Princeton University)
+- **ander kierig** (University of Minnesota)
 - **Christine Kim** (University of California, Los Angeles)
 - **Mara Kirdani-Ryan** (University of Washington, Seattle)
 - **Lukas Daniel Klausner** (St. Pölten University of Applied Sciences)
