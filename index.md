@@ -177,6 +177,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Harris Kornstein** (University of Arizona)
 - **Megh Krishnaswamy** (University of Arizona)
 - **Ruth Kristianingsih** (Ph.D. student at John Innes Centre, UK)
+- **Cody Lewis** (Ph.D. Student at the University of Newcastle, Australia)
 - **Morag Lewis** (King's College London)
 - **Daniel Lowd** (University of Oregon)
 - **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
