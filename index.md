@@ -143,6 +143,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Michael Ensly**
 - **Claire Elek** (Ph.D. candidate, Quadram Institute/University of East Anglia, UK)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
+- **Courtney Fuson** (Belmont University)
 - **Vagrant Gautam**
 - **Kaija Gahm** (PhD Student, UCLA)
 - **Lauren Gawne** (La Trobe University)
