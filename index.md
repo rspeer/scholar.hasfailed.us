@@ -195,6 +195,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Charlie Negri**
 - **Mark Neumann** (AI2)
 - **Luke Oakden-Rayner** (University of Adelaide, Australia)
+- **Emily de Oliveira Santos** (University of São Paulo, Brazil)
 - **Sylvia van Os**
 - **Juan Pajaro Velasquez** (Youth Observatory ISOC and Queer in AI)
 - **Neal Patwari** (Washington University in Saint Louis)
