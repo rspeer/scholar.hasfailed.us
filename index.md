@@ -191,6 +191,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Lesley Milnes** (The Sainsbury Laboratory)
 - **Caleb Moses** (Aotearoa Māori, Ngāpuhi tribe; Cook Island Māori, Aitutaki)
 - **Anoush Najarian** (Software Engineering Manager, CMG Board chair, GHC AI co-chair, previous: NeurIPS meetup co-chair, ICML virtual co-chair)
+- **Anna Aurora Neugebauer**
 - **Jeffrey Negrea** (Ph.D. Candidate, University of Toronto)
 - **Charlie Negri**
 - **Mark Neumann** (AI2)
