@@ -109,6 +109,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Mikio Akagi** (Texas Christian University)
 - **Delan Azabani** (Curtin University graduate)
 - **Fatoumata Bah** (University of Ottawa)
+- **Toby Bartels** (Southeast [Nebraska] Community College)
 - **Anna Barth** (Cornell University)
 - **Nick Barts** (University of Pittsburgh)
 - **Adrian Bauer**
