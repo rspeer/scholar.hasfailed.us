@@ -217,6 +217,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Pedro Rodriguez** (Research Scientist)
 - **J. Rosenbaum** (RMIT University)
 - **Andreana Rosnik**
+- **Sarah Rovner-Frydman**
 - **Georgie Rowe** (University of Birmingham, UK)
 - **Nick Ruest** (York University)
 - **Ashwin S** (Queer in AI)
