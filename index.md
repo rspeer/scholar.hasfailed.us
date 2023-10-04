@@ -168,6 +168,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Ben Kaiser** (Princeton University)
 - **Brian Keegan** (University of Colorado Boulder)
 - **M. Alex Kelly** (Carleton University)
+- **Max Keleher** (Master's Student at Carleton University)
 - **Megan Kennedy**
 - **Vijay Keswani** 
 - **Ahmed Khaled** (Princeton University)
