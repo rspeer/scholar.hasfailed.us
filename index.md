@@ -137,13 +137,13 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Becca Doherty** (John Innes Center)
 - **Eleanor Drage** (University of Cambridge)
 - **Jana Dunfield** (Queen's University)
-- **Richard Ean** (Queen's University)
 - **Charles Earl** (Black in AI)
 - **Liam Egan** (The Sainsbury Laboratory)
 - **Michael Ensly**
 - **Claire Elek** (Ph.D. candidate, Quadram Institute/University of East Anglia, UK)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
 - **Courtney Fuson** (Belmont University)
+- **Artemis Lena Fürstenau** (BSc student, HU Berlin)
 - **Vagrant Gautam**
 - **Kaija Gahm** (PhD Student, UCLA)
 - **Lauren Gawne** (La Trobe University)
@@ -169,15 +169,18 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Ben Kaiser** (Princeton University)
 - **Brian Keegan** (University of Colorado Boulder)
 - **M. Alex Kelly** (Carleton University)
+- **Max Keleher** (Master's Student at Carleton University)
 - **Megan Kennedy**
 - **Vijay Keswani** 
 - **Ahmed Khaled** (Princeton University)
+- **ander kierig** (University of Minnesota)
 - **Christine Kim** (University of California, Los Angeles)
 - **Mara Kirdani-Ryan** (University of Washington, Seattle)
 - **Lukas Daniel Klausner** (St. Pölten University of Applied Sciences)
 - **Harris Kornstein** (University of Arizona)
 - **Megh Krishnaswamy** (University of Arizona)
 - **Ruth Kristianingsih** (Ph.D. student at John Innes Centre, UK)
+- **Cody Lewis** (Ph.D. Student at the University of Newcastle, Australia)
 - **Morag Lewis** (King's College London)
 - **Daniel Lowd** (University of Oregon)
 - **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
@@ -203,10 +206,12 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Nicole Peterson** (UNC Charlotte)
 - **Paul R. Pival** (University of Calgary)
 - **Jamie Price**
+- **Julien A. Raemy** (University of Basel)
 - **Maya Raman** (University of California, Los Angeles)
 - **Gabor Recski**
 - **Gwen Rehrig** (University of California, Davis)
 - **Avi Rappoport**
+- **Ritsuka** (Queen's University)
 - **Anna Ritz** (Reed College)
 - **Pedro Rodriguez** (Research Scientist)
 - **J. Rosenbaum** (RMIT University)
@@ -218,6 +223,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Luca Salerno** (Ph.D.; co-chair, City of Pittsburgh LGBTQIA+ Commission)
 - **John Samuel** 
 - **Eddie Antonio Santos** (University College Dublin)
+- **Andreas Säuberli** (University of Zurich)
 - **Mark Schultz** (PhD Student, UCSD)
 - **Michael Schlichtkrull** (University of Cambridge)
 - **Janelle Shane**
