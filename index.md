@@ -186,6 +186,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Daniel Lowd** (University of Oregon)
 - **Alexandra Sasha Luccioni** (Universite de Montreal/Mila)
 - **Ártemis López** (Ph.D. Candidate, Universidade de Vigo)
+- **Kiana Liaghat** (MSc Student to be)
 - **Emma Manning** (Georgetown University)
 - **Katie Marshall** (University of British Columbia)
 - **Sarah Masud** (Ph.D. Student)
