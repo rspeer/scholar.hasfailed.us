@@ -257,7 +257,8 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Piper Langer Weida** (Harvey Mudd College)
 - **Christina Wilmot** (Xoogler, Ph.D. student at UCLA)
-- **avery wrenne** 
+- **avery wrenne**
+- **Kunyi Wang** (University of British Columbia, Undergraduate student)
 - **Michael Miller Yoder** (Carnegie Mellon University)
 - **Marilee Zafaripour** (University of Oregon)
 - **Sam Zlotnik** (University of Florida)
