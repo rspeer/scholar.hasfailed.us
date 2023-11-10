@@ -251,6 +251,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **priya v.** (Yale University, Foothill College)
 - **Melissa Valen**
 - **Sam Vente**
+- **Kunyi Wang** (University of British Columbia, Undergraduate Student)
 - **Matthew Wang**
 - **Kestrel Ward** (MLIS student, Florida State University; employed, University of Florida)
 - **Nif Ward**
