@@ -41,7 +41,7 @@ Many trans authors consider it easier to change careers than to change their nam
 
 This issue can affect other authors as well. Many people change names, for many reasons. The unrealistic assumption that people don't change names reflects that the system was largely designed by and for cis men.
 
-For instance, people who get married or divorced are often pressured to not change their last name to maintain a publication record, regardless of the immense personal significance of such life events. A better process for trans authors to change their names also eliminates the need for such uncomfortable compromises. 
+For instance, people who get married or divorced are often pressured to not change their last name to maintain a publication record, regardless of the immense personal significance of such life events. A better process for trans authors to change their names also eliminates the need for such uncomfortable compromises.
 
 ## But I've heard Google is a great place for trans employees! Surely they're working on it.
 
@@ -143,6 +143,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Michael Ensly**
 - **Claire Elek** (Ph.D. candidate, Quadram Institute/University of East Anglia, UK)
 - **Sarah Faber** (University of Toronto, Baycrest Health Sciences Centre)
+- **Anakin Fox**
 - **Courtney Fuson** (Belmont University)
 - **Artemis Lena Fürstenau** (BSc student, HU Berlin)
 - **Vagrant Gautam**
@@ -172,7 +173,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **M. Alex Kelly** (Carleton University)
 - **Max Keleher** (Master's Student at Carleton University)
 - **Megan Kennedy**
-- **Vijay Keswani** 
+- **Vijay Keswani**
 - **Ahmed Khaled** (Princeton University)
 - **ander kierig** (University of Minnesota)
 - **Christine Kim** (University of California, Los Angeles)
@@ -225,7 +226,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Ashwin S** (Queer in AI)
 - **Mrinmaya Sachan** (ETH Zurich)
 - **Luca Salerno** (Ph.D.; co-chair, City of Pittsburgh LGBTQIA+ Commission)
-- **John Samuel** 
+- **John Samuel**
 - **Eddie Antonio Santos** (University College Dublin)
 - **Andreas Säuberli** (University of Zurich)
 - **Mark Schultz** (PhD Student, UCSD)
@@ -237,7 +238,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Katta Spiel**
 - **Blake Stacey** (University of Massachusetts Boston)
 - **Francesca L. Stefanato** (John Innes Centre)
-- **Evan Sterling** (University of Ottawa) 
+- **Evan Sterling** (University of Ottawa)
 - **Abram Stern** (UC Santa Cruz)
 - **Catherine Stinson** (Queen's University)
 - **Arjun Subramonian** (University of California, Los Angeles and Queer in AI)
@@ -257,7 +258,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **B.M. Watson** (University of British Columbia; American Psychological Association Consensual Non-monogamy Committee)
 - **Piper Langer Weida** (Harvey Mudd College)
 - **Christina Wilmot** (Xoogler, Ph.D. student at UCLA)
-- **avery wrenne** 
+- **avery wrenne**
 - **Michael Miller Yoder** (Carnegie Mellon University)
 - **Marilee Zafaripour** (University of Oregon)
 - **Sam Zlotnik** (University of Florida)
